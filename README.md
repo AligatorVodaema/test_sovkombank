@@ -13,5 +13,5 @@ Usage:
 1. $ pytest -v -m search_story 
 2. $ pytest -v -m images_story
 
-The search_story mark for search story tests and
-the images_story mark for images story tests.
+The "search_story" mark for search story tests and
+the "images_story" mark for images story tests.
